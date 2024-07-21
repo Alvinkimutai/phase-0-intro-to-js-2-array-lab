@@ -119,6 +119,3 @@ function removeFirstCat(){
 const resultforremoveFirstCat = removeFirstCat();
 
 console.log(resultforremoveFirstCat);
-
-
-
